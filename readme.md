@@ -39,3 +39,5 @@ Este é um projeto simples de Login feito com HTML, CSS e JavaScript, Após loga
    git clone https://tamborim13.github.io/Projeto-Login/
 
 Feito com ♥ by  Giovanni Tamborim 
+
+Licença: Este projeto está sob a licença MIT.
