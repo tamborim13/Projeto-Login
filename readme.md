@@ -6,6 +6,10 @@ Este é um projeto simples de Login feito com HTML, CSS e JavaScript, Após loga
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
+## 🖼️ Preview
+
+![Interface login](./preview.png)
+
 ## 🔍 Funcionalidades
 
 - Logar ou Cadastrar um usuário
