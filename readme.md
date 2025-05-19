@@ -1,4 +1,4 @@
-# Pokédex GIVA
+# LOGIN
 
 Este é um projeto simples de Login feito com HTML, CSS e JavaScript, Após logado ele te redireciona para outro site!
 
@@ -11,6 +11,7 @@ Este é um projeto simples de Login feito com HTML, CSS e JavaScript, Após loga
 - Logar ou Cadastrar um usuário
 - Após logar ser redirecionado para um novo site
 - Interface de cadastro
+- Banco de dados do navegador
 - Interface estilizada com visual mais animado
 
 ## 🧑‍💻 Tecnologias Utilizadas
